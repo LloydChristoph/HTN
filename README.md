@@ -1,5 +1,11 @@
 # Emergent Holographic Gravity from Hyperinvariant Triangular Lattices
 
+Date: November 20, 2025
+
+Author: Christopher Andersson
+
+Subject: Computational Physics / Quantum Gravity
+
 Abstract
 
 The realization of holographic quantum error-correcting codes on simplicial geometries has traditionally been hindered by topological obstructions, specifically the formation of "dimer loops" in triangular tilings which decouple the bulk from the boundary. This work presents a numerical counter-example to this obstruction. By simulating a Hyperinvariant Tensor Network (HTN) on a triangular lattice with bond dimension $\chi=4$ and applying an iterative local optimization loop, we demonstrate the emergence of a stable bulk geometry. Crucially, the system is shown to satisfy the Ryu-Takayanagi Area Law for entanglement entropy ($S_{EE} \approx 1.42 < S_{thermal}$), indicating the presence of an emergent gravitational dual. We further demonstrate the "self-healing" properties of this vacuum state against massive topological defects under continuous thermal evolution.
