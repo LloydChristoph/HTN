@@ -2,7 +2,7 @@
 
 Date: November 20, 2025
 
-Author: Christopher Andersson
+Author: C Andersson
 
 Subject: Computational Physics / Quantum Gravity
 
