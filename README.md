@@ -1,5 +1,4 @@
-# HTN
-Emergent Holographic Gravity from Hyperinvariant Triangular Lattices
+# Emergent Holographic Gravity from Hyperinvariant Triangular Lattices
 
 Introduction: It is generally believed that triangular lattices are unsuitable for holographic tensor networks because they suffer from topological obstructions (like "dimer loops") that decouple the bulk from the boundary. This project provides a numerical counter-example to that heuristic.
 
