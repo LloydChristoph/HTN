@@ -1,4 +1,4 @@
-# Emergent Holographic Gravity from Hyperinvariant Triangular Lattices
+# Emergent Holographic Gravity from Hyperinvariant Triangular Lattices (A Toy Model)
 
 Date: November 20, 2025
 
